@@ -1,0 +1,115 @@
+body {
+  margin: 20px 30px;
+  background-color: rgb(220, 232, 232);
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.logo {
+  border-radius: 50%;
+  width: 8%;
+  position: relative;
+  right: 320px;
+}
+
+.navbar {
+  margin-bottom: 100px;
+  margin-top: 30px;
+}
+
+.navbaritem {
+  margin: 10px 20px;
+  position: relative;
+  left: 320px;
+  bottom: 75px;
+  color: rgb(126, 189, 169);
+  font-size: 20px;
+}
+.header1 {
+  font-family: "Roboto Mono", monospace;
+  font-family: "Satisfy", cursive;
+  font-size: 80px;
+  font-weight: 100;
+  margin: 0%;
+  color: rgb(126, 189, 169);
+}
+
+.header2 {
+  font-size: 25px;
+  margin: 0;
+  color: rgb(126, 189, 169);
+  margin-bottom: 30px;
+}
+
+.descrip {
+  text-align: justify;
+  line-height: 25px;
+  margin: auto 200px;
+  font-family: sans-serif;
+}
+
+.topcloud {
+  position: relative;
+  left: 30%;
+  height: 15%;
+  width: 15%;
+}
+.mountain {
+  margin: 40px auto 20px auto;
+}
+.bottomcloud {
+  position: absolute;
+  left: 200px;
+  height: 15%;
+  width: 25%;
+}
+
+.myphoto {
+  width: 15%;
+  height: 15%;
+  margin-top: 50px;
+}
+
+.hi {
+  margin-top: 20px;
+  color: rgb(126, 189, 169);
+  font-size: 30px;
+}
+
+.mydetails {
+  line-height: 1.5;
+  width: 30%;
+  margin: 20px auto;
+  text-align: justify;
+}
+
+.whatcanido {
+  font-family: "Redressed", cursive;
+  font-size: 50px;
+  color: rgb(126, 189, 169);
+}
+.webdesign {
+  border-radius: 50%;
+  width: 10%;
+  height: 10%;
+  margin: 20px;
+}
+.webdevelop {
+  border-radius: 50%;
+  width: 10%;
+  height: 10%;
+  margin: 20px;
+}
+
+.navbaritem:hover {
+  color: black;
+}
+.navbaritem:visited {
+  color: black;
+}
+
+.home,
+.work,
+.aboutus {
+  text-decoration: none;
+}
